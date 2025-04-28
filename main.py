@@ -1,7 +1,8 @@
 # main.py
 
 from config import CITIES
-from scraper import get_listing_links, scrape_listing, save_to_csv, has_next_page
+from scraper import get_listing_links, scrape_listing, has_next_page
+from utils import save_to_csv
 
 def main():
     for city, code in CITIES.items():
