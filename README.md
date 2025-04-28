@@ -25,5 +25,3 @@ All scraped data is saved to a structured **CSV file**.
 
 ---
 
-## 🛠️ Project Structure
-
